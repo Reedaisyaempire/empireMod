@@ -1,9 +1,9 @@
 [
 	{
-		"name": "B17",
+		"name": "黒鳥",
 		"unitType": "Bomber",
 		"replaces": "Bomber",
-		"uniqueTo": "America", //USA
+		"uniqueTo": "ダイシヤ帝国",
 		"movement": 1,
 		"strength": 70,
 		"rangedStrength": 70,
