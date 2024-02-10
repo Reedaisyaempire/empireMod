@@ -8,7 +8,7 @@
 		"movement": 4,
 		"strength": 80,
 		"cost": 400,
-		"requiredTech": "Combined Arms",
+		"requiredTech": "Plane",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
 		"promotions": ["Shock I","Blitz"], 
