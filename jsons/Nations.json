@@ -24,8 +24,8 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "我等の栄光に万歳！",
+		"tradeRequest": "ありがたい！",
 
 		"outerColor": [0,0,0],
 		"innerColor": [127,17,132],
