@@ -9,7 +9,7 @@
 		"rangedStrength": 70,
 		"range": 10,
 		"cost": 375,
-		"requiredTech": "Radar",
+		"requiredTech": "Plane",
 		"requiredResource": "Oil",
 		"promotions": ["Evasion", "Siege I"],
 		"upgradesTo": "Stealth Bomber",
