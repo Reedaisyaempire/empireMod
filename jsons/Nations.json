@@ -5,7 +5,8 @@
 		"adjective": ["リー・ダイシヤ"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
-		
+		"favoredReligion": "Shinto"
+
 		"startIntroPart1": "ダイシヤ帝国万歳!",
 		"startIntroPart2": "我等に負けなし!!",
 		
