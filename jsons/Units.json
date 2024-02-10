@@ -1,6 +1,6 @@
 [
 	{
-	　　　"name": "B17",
+		"name": "B17",
 		"unitType": "Bomber",
 		"replaces": "Bomber",
 		"uniqueTo": "America", //USA
