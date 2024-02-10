@@ -31,7 +31,7 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [127,17,132],
-	　　　　　
+	　　　　
 		"uniqueName": "DZ戦法",
 		"uniques": ["[+10]% Strength <for [Armored] units>","+[1] Movement <for [Armored] units> <when at war>","[+15]% Strength <for [All] units> <during a Golden Age>","+[1] Movement <for [All] units> <during a Golden Age>"],
 		"cities": ["ドムツン","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
