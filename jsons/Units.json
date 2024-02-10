@@ -3,14 +3,13 @@
 		"name": "黒鳥",
 		"unitType": "Armored",
 		"uniqueTo": "ダイシヤ帝国",
-		"replaces": "なち"
 		"replaces": "Fighter jet",
 		"movement": 4,
 		"strength": 80,
 		"cost": 400,
 		"requiredTech": "Plane",
 		"requiredResource": "Oil",
-		"upgradesTo": "Modern Armor",
+		"upgradesTo": "Stealth Bomber",
 		"promotions": ["Shock I","Blitz"], 
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
