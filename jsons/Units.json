@@ -7,7 +7,7 @@
 		"replaces": "Tank",
 		"movement": 4,
 		"strength": 80,
-		"cost": 395,
+		"cost": 400,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
