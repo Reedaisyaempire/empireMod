@@ -4,7 +4,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "ダイシヤ帝国",
 		"replaces": "なち"
-		"replaces": "Fighter",
+		"replaces": "Fighter jet",
 		"movement": 4,
 		"strength": 80,
 		"cost": 400,
