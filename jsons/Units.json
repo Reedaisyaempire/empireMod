@@ -3,8 +3,8 @@
 		"name": "黒鳥",
 		"unitType": "Armored",
 		"uniqueTo": "ダイシヤ帝国",
-		"replaces": "Panzer"
-		"replaces": "Tank",
+		"replaces": "なち"
+		"replaces": "Fighter",
 		"movement": 4,
 		"strength": 80,
 		"cost": 400,
