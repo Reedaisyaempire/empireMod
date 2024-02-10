@@ -3,7 +3,7 @@
 		"name": "ダイシヤ帝国",
 		"leaderName": "ダイシヤ天征",
 		"adjective": ["リー・ダイシヤ"],
-		"startBias": ["tundra"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "ダイシヤ帝国万歳!",
