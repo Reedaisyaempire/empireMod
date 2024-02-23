@@ -1,1 +1,3 @@
-* [ダイシヤ帝国] (https://github.com/Reedaisyaempire/empireMod/blob/master/Images/NationIcons/IMG_20240211_014113_(100_x_100_%E3%83%94%E3%82%AF%E3%82%BB%E3%83%AB).png) by ダイシヤ
+All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
+
+* [ダイシヤ帝国] (https://thenounproject.com/icon/1546004/) by Minh Do
